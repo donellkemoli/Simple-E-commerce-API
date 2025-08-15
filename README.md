@@ -35,11 +35,10 @@ A backend API built to handle e-commerce operations such as product listings, sh
 To maintain code quality and collaboration, follow these rules:
 
  1. Always Pull Latest Code from `main`
-```bash
 git checkout main
 git pull origin main
 
-### 2. Create a Working Branch for Each Issue
+ 2. Create a Working Branch for Each Issue
 git checkout -b feature/issue-<issue-number>-<short-description>
 
 3. Work on Your Feature or Bugfix
