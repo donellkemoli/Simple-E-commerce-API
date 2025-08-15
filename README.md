@@ -35,16 +35,21 @@ A backend API built to handle e-commerce operations such as product listings, sh
 git checkout main
 git pull origin main
 2.Create a Working Branch for Each Issue
+```bash
 git checkout -b feature/issue-<issue-number>-<short-description>
 3. Work on Your Feature or Bugfix
+```bash
 Make your changes and commit them:
 git add .
 git commit -m "Describe your changes"
 4. Push Your Branch
+```bash
 git push origin feature/issue-<issue-number>-<short-description>
 5. Create a Pull Request
+```bash
 Go to the repository on GitHub.
 Create a Pull Request from your branch to main.
 Request a code review.
+```bash
 Note:
 Always pull from the main branch before starting new work to ensure you have the latest codebase.
