@@ -28,13 +28,13 @@ A backend API built to handle e-commerce operations such as product listings, sh
 - View past orders and their statuses.
 - Admin can view all orders.
 
-## Coding Rules & Workflow
+ Coding Rules & Workflow
 
-## Coding Rules & Workflow
+ Coding Rules & Workflow
 
 To maintain code quality and collaboration, follow these rules:
 
-### 1. Always Pull Latest Code from `main`
+ 1. Always Pull Latest Code from `main`
 ```bash
 git checkout main
 git pull origin main
